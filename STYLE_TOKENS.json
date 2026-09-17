@@ -1,0 +1,40 @@
+{
+  "name": "Smileboy Editorial UI v1.0",
+  "principles": [
+    "white background",
+    "deep blue identity",
+    "flat 2D",
+    "few words",
+    "strong structure",
+    "weak decoration",
+    "human-made PowerPoint/Keynote feel"
+  ],
+  "colors": {
+    "primary": "#234A84",
+    "secondary": "#4F86D9",
+    "light": "#DCE9F8",
+    "background": "#F5F8FC",
+    "text": "#1F2937",
+    "muted": "#6B7280",
+    "line": "#C8D6E8",
+    "accent": "#F2B544"
+  },
+  "default_diagrams": [
+    "stakeholder onion / concentric circles",
+    "horizontal flow",
+    "XY quadrant",
+    "two-column role comparison",
+    "components x relationships = result",
+    "simple hierarchy"
+  ],
+  "avoid": [
+    "3D",
+    "glow",
+    "glassmorphism",
+    "heavy gradients",
+    "decorative illustration",
+    "excessive icons",
+    "long text inside diagram",
+    "AI infographic look"
+  ]
+}
